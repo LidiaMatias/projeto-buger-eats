@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Ana Lidia",
+        "cpf": "04500088811",
+        "email": "ana.lidia@gmail.com",
+        "whatsapp": "85999447777",
+        "address":{
+            "postalcode":"60326020",
+            "street":"Rua Gérson Faria",
+            "number":"395",
+            "details":"altos",
+            "district":"Monte Castelo",
+            "city_state":"Fortaleza/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Pedro Paulo",
+        "cpf": "045000888CC",
+        "email": "pedro.paulo@gmail.com",
+        "whatsapp": "85999447777",
+        "address":{
+            "postalcode":"60326020",
+            "street":"Rua Gérson Faria",
+            "number":"395",
+            "details":"altos",
+            "district":"Monte Castelo",
+            "city_state":"Fortaleza/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Sandra Carla",
+        "cpf": "04500088811",
+        "email": "sandra.com",
+        "whatsapp": "88991111177",
+        "address":{
+            "postalcode":"60331155",
+            "street":"Rua Edgar Damasceno",
+            "number":"200",
+            "details":"altos",
+            "district":"Barra do Ceará",
+            "city_state":"Fortaleza/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
